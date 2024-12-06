@@ -1,1 +1,1 @@
-# iphone-sales-analysis
+# Python project
